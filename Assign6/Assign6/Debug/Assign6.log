@@ -1,0 +1,14 @@
+﻿  Assign6.cpp
+C:\Users\andre\source\repos\Assign6\Assign6\Array.h(113,34): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\andre\source\repos\Assign6\Assign6\Array.h(111): message : while compiling class template member function 'numbers Array<numbers>::operator [](int) const'
+          with
+          [
+              numbers=char
+          ]
+C:\Users\andre\source\repos\Assign6\Assign6\Assign6.cpp(47): message : see reference to function template instantiation 'numbers Array<numbers>::operator [](int) const' being compiled
+          with
+          [
+              numbers=char
+          ]
+C:\Users\andre\source\repos\Assign6\Assign6\Assign6.cpp(61): message : see reference to class template instantiation 'Array<char>' being compiled
+  Assign6.vcxproj -> C:\Users\andre\source\repos\Assign6\Debug\Assign6.exe

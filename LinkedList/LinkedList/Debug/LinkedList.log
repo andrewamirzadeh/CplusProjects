@@ -1,0 +1,3 @@
+﻿  LinkedList.cpp
+C:\Users\andre\source\repos\LinkedList\LinkedList\LinkedList.cpp(200,37): warning C4101: 'temp': unreferenced local variable
+  LinkedList.vcxproj -> C:\Users\andre\source\repos\LinkedList\Debug\LinkedList.exe

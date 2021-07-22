@@ -1,0 +1,4 @@
+﻿  Shapes.cpp
+C:\Users\andre\source\repos\Shapes\Shapes\Shapes.cpp(103): warning C4717: 'Square::setSideA': recursive on all control paths, function will cause runtime stack overflow
+C:\Users\andre\source\repos\Shapes\Shapes\Shapes.cpp(107): warning C4717: 'Square::setSideB': recursive on all control paths, function will cause runtime stack overflow
+  Shapes.vcxproj -> C:\Users\andre\source\repos\Shapes\Debug\Shapes.exe
